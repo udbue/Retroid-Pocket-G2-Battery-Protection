@@ -14,7 +14,7 @@
 
 ## Quick Start
 
-1. **Download** all `.sh` files to your device.
+1. **Download** the .zip file from the releases then extract to your device.
 2. **Settings** → `Handheld Settings` → `Advanced` → `Run script as Root`
 3. **Tap** `Select A Script` → choose `Enable Charging Protection.sh` → **Run**
 
