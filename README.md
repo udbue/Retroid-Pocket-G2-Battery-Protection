@@ -52,4 +52,4 @@ MIT License
 ## Credits
 Mike (u/M1ke____  on reddit) for kickstarting the whole search for a way to enable this feature.
 
-MrTrakker (@andreqsilva on discord) for finding the key files and values to make this possible.
+MrTrakker (@andreqsilva on discord) for finding the key system files and values to make this possible.
