@@ -50,5 +50,6 @@ Run `Disable Charging Protection.sh` to restore normal charging behavior.
 MIT License
 
 ## Credits
-MrTrakker (@andreqsilva on discord)
-Mike (u/M1ke____  on reddit)
+Mike (u/M1ke____  on reddit) for kickstarting the whole search for a way to enable this feature.
+
+MrTrakker (@andreqsilva on discord) for finding the key files and values to make this possible.
