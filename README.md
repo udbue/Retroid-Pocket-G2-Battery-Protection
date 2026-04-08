@@ -51,3 +51,4 @@ MIT License
 
 ## Credits
 MrTrakker (@andreqsilva on discord)
+Mike (u/M1ke____  on reddit)
