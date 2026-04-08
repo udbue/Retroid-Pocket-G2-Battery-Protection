@@ -1,6 +1,8 @@
 # Retroid Pocket G2 Battery Protection
 
-**Extend your battery lifespan** by pausing charging at a custom threshold (default: 80%) and resuming at a lower level (default: 70%). Works even when the device is powered off.
+**Extend your battery lifespan** by pausing charging at a custom threshold (default: 80%) and resuming at a lower level (default: 70%).
+
+**Works even when the device is powered off**. (based on my testing)
 
 > ⚠️ results may vary.
 
@@ -33,7 +35,7 @@ Edit the numbers after `echo`
 
 `echo 80 > /sys/class/power_supply/battery/charge_control_start_threshold`
 
-    Save and run via Run script as Root
+Save and run via Run script as Root
 
 > Pause value should always be Higher than the resume value (ex: 85%/75%, 90%/80%)
 
